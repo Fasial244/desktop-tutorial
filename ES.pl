@@ -13,13 +13,11 @@
 % Users will be asked about their preferred environment, activity type, budget level, and trip duration.
 
 % Based on their responses and the qualities of cities, the system will suggest the best matching city.
-The first step: To use this system, you must first type start in order for the program to start
-Step Two: The system will show some questions about the trip you want to take
-Step Three: The system will show the best place you can go based on your answers
-
-to Repeat or End the program: You can choose to provide feedback for more suggestions or end the program. The system will continue to suggest cities based on your preferences until you decide to stop.
-
-Explore Fallback Suggestions: If no exact match is found for your preferences, the system will provide fallback suggestions. You can explore these suggestions as well.
+%The first step: To use this system, you must first type start in order for the program to start
+%Step Two: The system will show some questions about the trip you want to take
+%Step Three: The system will show the best place you can go based on your answers
+%to Repeat or End the program: You can choose to provide feedback for more suggestions or end the program. The system will continue to suggest cities based on your preferences until you decide to stop.
+%Explore Fallback Suggestions: If no exact match is found for your preferences, the system will provide fallback suggestions. You can explore these suggestions as well.
 
 
 
